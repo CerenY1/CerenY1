@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4E12AQFpVVeYxISogg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1723744653299?e=2147483647&v=beta&t=bkQk8y967rXmze-j5LHesDUWQ020JAfdfJCLuAwnEKU)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4E12AQFpVVeYxISogg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1723744653299?e=2147483647&v=beta&t=bkQk8y967rXmze-j5LHesDUWQ020JAfdfJCLuAwnEKU)
 <h1 align="center">Hi 👋, I'm Ceren Yetkinler</h1>
 <h3 align="center">👨‍💻 Computer Engineer | AI & ML Enthusiast</h3>
 
